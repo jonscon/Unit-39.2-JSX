@@ -1,0 +1,17 @@
+.tweet {
+    border: 1px solid black;
+    margin: 20px 20%;
+    padding: 10px;
+    display: inline-block;
+}
+
+.message {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.tweet-origin {
+  color: #999;
+  display: inline-block;
+  margin: 10px 10px;
+}
